@@ -28,4 +28,4 @@ http://wiki.fdiary.net/pickaxe3ja/ の後継です。）
 
 ### 正誤等
 
-  * https://github.com/programming-ruby-19-ja/support/issues
+  * https://github.com/ohmsha/programming-ruby-19-ja/issues
